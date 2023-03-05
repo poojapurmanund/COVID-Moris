@@ -1,4 +1,4 @@
-# covid19App
+# COVID MORIS
 
 Description:
 
